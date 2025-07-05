@@ -1,0 +1,14 @@
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/bin/Debug/net9.0/EFCoreTutorial.Data.deps.json
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/bin/Debug/net9.0/EFCoreTutorial.Data.runtimeconfig.json
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/bin/Debug/net9.0/EFCoreTutorial.Data.dll
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/bin/Debug/net9.0/EFCoreTutorial.Data.pdb
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.csproj.AssemblyReference.cache
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.AssemblyInfoInputs.cache
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.AssemblyInfo.cs
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.csproj.CoreCompileInputs.cache
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.dll
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/refint/EFCoreTutorial.Data.dll
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.pdb
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/EFCoreTutorial.Data.genruntimeconfig.cache
+/Users/arafatyilmaz/Projects/src/EFCoreTutorial.Data/obj/Debug/net9.0/ref/EFCoreTutorial.Data.dll
